@@ -1,0 +1,4 @@
+driver = {SQL Server}
+server = LAPTOP-Q72Q77L5\SQLEXPRESS
+dbname = VirtualArtGallery
+trusted_connection = yes
